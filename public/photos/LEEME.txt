@@ -1,0 +1,2 @@
+Pon aquí tus fotos (jpg/png/webp) y escribe su nombre en src/config/content.js.
+Consejo: reduce cada foto a ~1200px de ancho para que cargue rápido.
